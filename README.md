@@ -4,8 +4,6 @@
 These are only examples from differents design pattern apply on Angular projects.
 
 
-T
-
 
 ## Installation
 
